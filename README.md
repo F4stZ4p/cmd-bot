@@ -16,7 +16,7 @@
 **Lauritz V. Thaulow** - [***click***](https://stackoverflow.com/questions/9823936/python-how-do-i-know-what-type-of-exception-occurred/9824050#9824050 "Stackoverflow")
 
 ###### Having troubles with installing?
-**- Get Python**
-**- Get Pip**
-**- Get discord.py module. To do this, simply type ``pip install discord.py`` in cmd.exe**
-**- Launch bot**
+- Get Python
+- Get Pip
+- Get discord.py module. To do this, simply type ``pip install discord.py`` in cmd.exe
+- Launch bot
