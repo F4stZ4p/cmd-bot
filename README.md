@@ -8,4 +8,4 @@
 ###### A: It is Discord bot written in Python.
 
 ###### Q: How do I use it?
-###### A: Simply create bot here [click](https://discordapp.com/developers/applications/me "Discord Developers") and reveal its token. Then paste it to code.
+###### A: Simply create bot here [***click***](https://discordapp.com/developers/applications/me "Discord Developers") and reveal its token. Then paste it to code.
