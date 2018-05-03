@@ -15,7 +15,7 @@ async def help(ctx): #main help command
     if ctx.message.author.id == "YOUR ID":
         embed = discord.Embed(title="CMD-Bot", color=0xFF0000) # formatting help embed message
         embed.add_field(name="```util.cmd <command>```", value="Execute CMD Command.", inline=False) # formatting help embed message 2
-        embed.add_field(name="```util.help```", value="Will show help embed message", inline=False) # formatting help embed message 3
+        embed.add_field(name="```util.help```", value="Will show help embed message.", inline=False) # formatting help embed message 3
         await cmdbot.send_message(ctx.message.channel, embed=embed) # sending embed message
     elif ctx.message.author.id != "YOUR ID":
         embed = discord.Embed(title="CMD-Bot", color=0xFF0000) # formatting embed message
