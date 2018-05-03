@@ -8,7 +8,7 @@
 ###### A: It is Discord bot written in Python.
 
 ###### Q: How do I use it?
-###### A: Simply create bot here [***click***](https://discordapp.com/developers/applications/me "Discord Developers") and reveal its token. Then paste it to code. Discover your ID and do the same. Then start bot and type util.cmd command in chat.
+###### A: Simply create bot here [***click***](https://discordapp.com/developers/applications/me "Discord Developers") and reveal its token. Then paste it to code. Discover your ID and do the same. Add bot to your guild. Then start bot and type util.cmd command in chat.
 
 
 ###### Thanks to:
@@ -20,3 +20,6 @@
 - Get Pip
 - Get discord.py module. To do this, simply type ``pip install discord.py`` in cmd.exe
 - Launch bot
+
+###### Versions
+- [x] Latest version - 03.05.2018
