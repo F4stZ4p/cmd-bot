@@ -8,7 +8,7 @@
 ###### A: It is Discord bot written in Python.
 
 ###### Q: How do I use it?
-###### A: Simply create bot here [***click***](https://discordapp.com/developers/applications/me "Discord Developers") and reveal its token. Then paste it to code. Discover your ID and do the same. Add bot to your guild. Then start bot and type util.help command in chat.
+###### A: Simply create bot here [***click***](https://discordapp.com/developers/applications/me "Discord Developers") and reveal its token. Then paste it to code. Discover your ID and modify whitelist. Add bot to your guild. Then start bot and type util.help command in chat.
 
 
 ###### Thanks to:
@@ -22,4 +22,8 @@
 - Launch bot
 
 ###### Versions
-- [x] Latest version - 03.05.2018
+- [x] Latest version - 05.05.2018
+
+
+###### Changelog
+- [x] 05.05.2018 - added whitelist function.
