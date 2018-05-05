@@ -26,4 +26,4 @@
 
 
 ###### Changelog
-- [x] 05.05.2018 - added whitelist function.
+- [x] 05.05.2018 - added whitelist function
